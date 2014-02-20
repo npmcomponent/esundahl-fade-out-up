@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-fade-out-up",
+  "description": "fade-out animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "fade-out-up"
+  ],
+  "styles": [
+    "fade-out-up.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
